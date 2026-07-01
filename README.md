@@ -1,4 +1,4 @@
-# Chunk-UI
+# Chunky-UI
     
     A graphical interface for [Chunky](https://github.com/pop4959/Chunky), providing visual control over Minecraft chunk pregeneration.
     
