@@ -1,0 +1,8 @@
+{
+  "modId": "chunkpregeneratorui",
+  "version": "${mod_version}",
+  "displayName": "ChunkPregeneratorUI",
+  "description": "Visual UI for Chunky chunk pregenerator",
+  "license": "MIT",
+  "authors": ["NuclearBoy Team"]
+}

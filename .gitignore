@@ -1,0 +1,31 @@
+# Nuclear Boy generated .gitignore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+dist/
+target/
+out/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.gradle/
+
+# Environment
+.env
+.env.local
+.env.*.local

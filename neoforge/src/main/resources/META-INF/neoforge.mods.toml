@@ -1,0 +1,47 @@
+# ChunkPregeneratorUI NeoForge 模组元数据
+# 为Chunky区块预生成器提供可视化UI界面
+
+modLoader = "javafml"
+loaderVersion = "[4,)"
+
+license = "MIT"
+
+[[mods]]
+modId = "chunkpregeneratorui"
+version = "${mod_version}"
+displayName = "ChunkPregeneratorUI"
+logoFile = "icon.png"
+credits = "基于Chunky(GPL-3.0)的命令系统，提供可视化UI层"
+authors = "NuclearBoy Team"
+description = """
+为Chunky区块预生成器提供可视化操作界面。
+无需记忆复杂的指令，通过图形界面即可：
+  ▸ 选择世界和形状
+  ▸ 配置预生成区域
+  ▸ 实时追踪进度
+  ▸ 查看区块热力图
+
+需要安装Chunky模组才能使用。
+"""
+
+[[dependencies.chunkpregeneratorui]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.chunkpregeneratorui]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+# Chunky是可选依赖——没有它会提示用户安装
+[[dependencies.chunkpregeneratorui]]
+modId = "chunky"
+mandatory = false
+versionRange = "[1.4,)"
+ordering = "AFTER"
+side = "BOTH"
