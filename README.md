@@ -1,6 +1,6 @@
 # ⚡ ChunkPregeneratorUI
 
-> 为 [Chunky](https://github.com/pop4959/Chunky) 区块预生成器提供 **Win11 Fluent Design** 风格的可视化操作界面。
+> 为 [Chunky](https://github.com/pop4959/Chunky) 区块预生成器提供可视化ui操作界面。
 
 [![NeoForge](https://img.shields.io/badge/NeoForge-1.21.1-blue?logo=curseforge)](https://neoforged.net/)
 [![Forge](https://img.shields.io/badge/Forge-1.20.1-orange)](https://files.minecraftforge.net/)
@@ -11,7 +11,7 @@
 
 ## 🎯 核心理念
 
-**不需要记指令！** Chunky 本身功能强大，但完全依赖命令行操作。本模组提供：
+**使用该模组，你不再需要手敲指令！** Chunky 本身功能强大，但完全依赖命令行操作。本模组提供：
 
 ```
    用户点击 UI  →  构建Chunky命令  →  Chunky执行预生成  →  实时进度反馈
