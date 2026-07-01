@@ -1,0 +1,12 @@
+{
+  "screen.chunkpregenerator.title": "区块预生成器",
+  "screen.chunkpregenerator.world": "世界",
+  "screen.chunkpregenerator.shape": "形状",
+  "screen.chunkpregenerator.set_position": "📍 设为当前位置",
+  "screen.chunkpregenerator.set_worldborder": "📐 设为世界边界",
+  "screen.chunkpregenerator.start": "▶ 开始预生成",
+  "screen.chunkpregenerator.pause": "⏸ 暂停",
+  "screen.chunkpregenerator.continue_btn": "▶ 继续",
+  "screen.chunkpregenerator.cancel": "⏹ 取消",
+  "menu.chunkpregenerator": "⚡ 区块预生成器"
+}

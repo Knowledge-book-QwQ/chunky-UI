@@ -1,0 +1,12 @@
+{
+  "screen.chunkpregenerator.title": "Chunk Pregen",
+  "screen.chunkpregenerator.world": "World",
+  "screen.chunkpregenerator.shape": "Shape",
+  "screen.chunkpregenerator.set_position": "📍 Set to Player Pos",
+  "screen.chunkpregenerator.set_worldborder": "📐 Set to World Border",
+  "screen.chunkpregenerator.start": "▶ Start",
+  "screen.chunkpregenerator.pause": "⏸ Pause",
+  "screen.chunkpregenerator.continue_btn": "▶ Resume",
+  "screen.chunkpregenerator.cancel": "⏹ Cancel",
+  "menu.chunkpregenerator": "⚡ Chunk Pregenerator"
+}
