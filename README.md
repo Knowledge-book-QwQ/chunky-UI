@@ -221,6 +221,3 @@ cd ChunkPregeneratorUI
 - [Chunky](https://github.com/pop4959/Chunky) (GPL-3.0) — 研究其架构、API、命令系统
 - Microsoft Fluent Design System — UI设计语言参考
 
----
-
-*由 核弹男孩 (Nuclear Boy) 构建 · 不留技术债 · 架构优先*
