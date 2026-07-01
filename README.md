@@ -223,4 +223,3 @@ cd ChunkPregeneratorUI
 
 ---
 
-*由 核弹男孩 (Nuclear Boy) 构建 · 不留技术债 · 架构优先*
